@@ -1,5 +1,4 @@
-[Startup_Validation_Report.pdf](https://github.com/user-attachments/files/29333551/Startup_Validation_Report.pdf)
-
+[Uploading Startup_Validation_Report.pdf…]()
 %PDF-1.4
 %���� ReportLab Generated PDF document (opensource)
 1 0 obj
